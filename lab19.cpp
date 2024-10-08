@@ -1,3 +1,6 @@
+// COMSC-210 | Abstract & Automate Lab 18 | Yukun Zhang
+// IDE used: Visual Studio Code
+
 #include<iostream>
 #include<string>
 #include<fstream>
